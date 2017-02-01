@@ -6,14 +6,9 @@ build:
 
 deploy:
   steps:
-    - bugscal/new-ftp-deploy:
+    - simpletechs/ftp-deploy-exclude:
         destination: ftp://ws44.surftown.com/kimbrerfesten.dk/hugo
         username: kimbreradmin
         password: $FTP_PASS
         remote-file: ./protected/werckerSync.txt
-        exclude-patterns: [
-            "./static",
-            "./content",
-            "./.gitignore",
-            "./.git/*"
-        ]
+        exclude-file: "/.git/ /.gitignore /wercker.yml /content/ config.toml"
