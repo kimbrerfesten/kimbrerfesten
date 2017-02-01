@@ -3,6 +3,8 @@ build:
   steps:
     - arjen/hugo-build:
         version: "HEAD"
+        theme: hugo-bootstrap
+        flags: --buildDrafts=true
 
 deploy:
   steps:
