@@ -6,7 +6,14 @@ build:
 
 deploy:
   steps:
-    - duleorlovic/ftp-deploy:
+    - bugscal/new-ftp-deploy:
         destination: ftp://ws44.surftown.com/kimbrerfesten.dk/hugo
         username: kimbreradmin
         password: $FTP_PASS
+        remote-file: ./protected/werckerSync.txt
+        exclude-patterns: [
+            "./static",
+            "./content",
+            "./.gitignore"
+            "./.git/*"
+        ]
