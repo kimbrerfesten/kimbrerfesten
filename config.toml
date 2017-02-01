@@ -1,4 +1,4 @@
-baseurl = "http://kimbrerfesten.dk/hugo"
+baseurl = "http://kimbrerfesten.dk/hugo/public/"
 languageCode = "en-us"
 title = "Hugo Themes"
 author = "Niels Linnemann"
