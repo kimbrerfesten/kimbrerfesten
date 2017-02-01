@@ -12,3 +12,4 @@ deploy:
         password: $FTP_PASS
         remote-file: ./protected/werckerSync.txt
         exclude-file: "/.git/ /.gitignore /wercker.yml /content/ config.toml"
+        simulation: true
