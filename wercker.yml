@@ -3,3 +3,10 @@ build:
   steps:
     - arjen/hugo-build:
         version: "HEAD"
+
+deploy:
+  steps:
+    - duleorlovic/ftp-deploy:
+        destination: ftp://ws44.surftown.com/kimbrerfesten.dk/hugo
+        username: kimbreradmin
+        password: $PASSWORD
