@@ -14,6 +14,6 @@ deploy:
         exclude-patterns: [
             "./static",
             "./content",
-            "./.gitignore"
+            "./.gitignore",
             "./.git/*"
         ]
