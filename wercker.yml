@@ -9,4 +9,4 @@ deploy:
     - duleorlovic/ftp-deploy:
         destination: ftp://ws44.surftown.com/kimbrerfesten.dk/hugo
         username: kimbreradmin
-        password: $PASSWORD
+        password: $FTP_PASS
