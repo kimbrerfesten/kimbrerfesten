@@ -13,5 +13,5 @@ deploy:
         username: kimbreradmin
         password: $FTP_PASS
         remote-file: ./protected/werckerSync.txt
-        exclude-file: "/.git/ /.gitignore /wercker.yml /content/ /themes config.toml"
+        exclude-file: "/.git/ /.gitignore /wercker.yml /content/ /themes /static config.toml"
         simulation: true
