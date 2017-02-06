@@ -9,42 +9,103 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link rel="icon" href="/img/icons/favicon.ico">
 </head>
 <body>
-    
-<nav>
-    <div class="nav-wrapper grey darken-3">
-        <a href="#!" class="brand-logo left">Concept Nav</a>
-        <ul class="right hide-on-med-and-down">
-            <li><a href="#!">Sass</a></li>
-            <li><a href="#!">Components</a></li>
-            <!-- Dropdown Trigger -->
-            <li><a class="dropdown-button" href="#!" data-activates="dropdown" data-beloworigin="true">Contacts<i class="mdi-navigation-arrow-drop-down right"></i></a></li>
-        </ul>
-    </div>
-</nav>
-<!-- Dropdown Structure -->
-<ul id="dropdown" class="dropdown-content collection">
-    <li class="collection-item avatar">
-            <img src="http://materializecss.com/images/yuna.jpg" alt="" class="circle">
-            <span class="title">Name</span>
-            <p>First Line</p>
-            <a href="#!" class="secondary-content"><i class="material-icons">contact_mail</i></a>
-    </li>
-    <li class="collection-item avatar">
-            <img src="http://materializecss.com/images/yuna.jpg" alt="" class="circle">
-            <span class="title">Name</span>
-            <p>First Line</p>
-            <a href="#!" class="secondary-content"><i class="material-icons">contact_mail</i></a>
-    </li>
-    <li class="collection-item avatar">
-            <img src="http://materializecss.com/images/yuna.jpg" alt="" class="circle">
-            <span class="title">Name</span>
-            <p>First Line</p>
-            <a href="#!" class="secondary-content"><i class="material-icons">contact_mail</i></a>
-    </li>
-</ul>
 
+
+<header>
+      <div class="container"><a href="#" data-activates="nav-mobile" class="button-collapse top-nav waves-effect waves-light circle hide-on-large-only"><i class="material-icons">menu</i></a></div>
+      <ul id="nav-mobile" class="side-nav fixed" style="transform: translateX(0%);">
+        <li class="logo center-align">
+            <a id="logo-container" href="http://materializecss.com/" class="brand-logo">
+            <object id="front-page-logo" type="image/svg+xml" data="img/mand_200x86.svg">Your browser does not support SVG</object></a></li>
+        <li class="bold"><a href="#" class="waves-effect waves-teal">Om</a></li>
+        <li class="bold"><a href="#" class="waves-effect waves-teal">Link 1</a></li>
+        <li class="no-padding">
+          <ul class="collapsible collapsible-accordion">
+            <li class="bold"><a class="collapsible-header  waves-effect waves-teal">Menu 1</a>
+              <div class="collapsible-body">
+                <ul>
+                  <li><a href="#">Link 1</a></li>
+                  <li><a href="#">Link 2</a></li>
+                </ul>
+              </div>
+            </li>
+            <li class="bold"><a class="collapsible-header  waves-effect waves-teal">Menu 2</a>
+              <div class="collapsible-body">
+                <ul>
+                  <li><a href="#">Link 1</a></li>
+                  <li><a href="#">Link 2</a></li>
+                </ul>
+              </div>
+            </li>
+            <li class="bold"><a class="collapsible-header  waves-effect waves-teal">Menu 3</a>
+              <div class="collapsible-body">
+                <ul>
+                  <li><a href="#">Link 1</a></li>
+                  <li><a href="#">Link 2</a></li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+        </li>
+        <li class="bold"><a href="#" class="waves-effect waves-teal">Link 2</a></li>
+        <li class="bold"><a href="#" class="waves-effect waves-teal">Link 3</a></li>
+      </ul>
+    </header>
+
+<main>
+     <div class="section no-pad-bot" id="index-banner">
+        <div class="container">
+          <h1 class="header center-on-small-only">Materialize</h1>
+          <div class='row center'>
+            <h4 class ="header col s12 light center">A modern responsive front-end framework based on Material Design</h4>
+          </div>
+ 
+
+          <div class="row">
+            <h3 class="col s12 light center header">Materialize simplifies life for developers and the users they serve.</h3>
+          </div>
+
+          <!--   Promo Section   -->
+          <div class="row">
+            <div class="col s12 m4">
+              <div class="center promo">
+                <i class="material-icons">flash_on</i>
+                <p class="promo-caption">Speeds up development</p>
+                <p class="light center">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
+              </div>
+            </div>
+
+            <div class="col s12 m4">
+              <div class="center promo">
+                <i class="material-icons">group</i>
+                <p class="promo-caption">User Experience Focused</p>
+                <p class="light center">By utilizing elements and principles of Material Design, we were able to create a framework that incorporates components and animations that provide more feedback to users. Additionally, a single underlying responsive system across all platforms allow for a more unified user experience.</p>
+              </div>
+            </div>
+
+            <div class="col s12 m4">
+              <div class="center promo">
+                <i class="material-icons">settings</i>
+                <p class="promo-caption">Easy to work with</p>
+                <p class="light center">We have provided detailed documentation as well as specific code examples to help new users get started. We are also always open to feedback and can answer any questions a user may have about Materialize.</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <div class="divider"></div>
+        <div class="section">
+          <div class="row center">
+            <h3 class="light header">Materialize Showcase</h3>
+            <p class="col s8 offset-s2 caption">Checkout what people are creating with Materialize. Get inspired by these beautiful sites and you can even submit your own website to be showcased here.</p>
+            <a href="http://materializecss.com/showcase.html" class="btn-large waves-effect waves-light">Explore our Showcase</a>
+          </div>
+        </div>
+      </div>
+</main>
 
   <footer class="page-footer teal">
     <div class="container">
@@ -97,6 +158,8 @@
                 belowOrigin: true,
                 alignment: 'right'
             });
+            // Initialize collapse button
+            $(".button-collapse").sideNav();
         });
     }(jQuery));
     </script>

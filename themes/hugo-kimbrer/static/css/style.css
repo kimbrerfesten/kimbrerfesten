@@ -28,3 +28,47 @@
 footer.page-footer {
   margin: 0;
 }
+
+header, main, footer {
+  padding-left: 300px;
+}
+
+@media only screen and (max-width : 992px) {
+  header, main, footer {
+    padding-left: 0;
+    }
+}
+
+#logo-container {
+    height: 210px;
+    margin-top: 10px;
+    margin-bottom: 32px;
+}
+
+.bold>a {
+    font-weight: bold;
+}
+
+ul.side-nav.fixed li a {
+    font-size: 13px;
+    line-height: 44px;
+    height: 44px;
+    padding: 0 32px;
+}
+
+ul.side-nav.fixed ul.collapsible-accordion a.collapsible-header {
+    padding: 0 32px;
+}
+
+.side-nav .collapsible-header, .side-nav.fixed .collapsible-header {
+    background-color: transparent;
+    border: none;
+    line-height: inherit;
+    height: inherit;
+    padding: 0 16px;
+}
+
+a.button-collapse.top-nav i {
+    font-size: 48px;
+    color: #000;
+}
