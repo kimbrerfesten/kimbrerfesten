@@ -6,6 +6,30 @@
  * Made By MaterializeCSS.com
  */
 
+
+@font-face {
+	font-family: 'Norse';
+	src: url('../fonts/Norse-Bold.eot');
+	src: url('../fonts/Norse-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Norse-Bold.woff2') format('woff2'),
+		url('../fonts/Norse-Bold.woff') format('woff'),
+		url('../fonts/Norse-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Norse';
+	src: url('../fonts/Norse.eot');
+	src: url('../fonts/Norse.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Norse.woff2') format('woff2'),
+		url('../fonts/Norse.woff') format('woff'),
+		url('../fonts/Norse.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
 .brand-logo{
 	font-weight:900;
 }
@@ -31,12 +55,6 @@ footer.page-footer {
 
 header, main, footer {
   padding-left: 300px;
-}
-
-@media only screen and (max-width : 992px) {
-  header, main, footer {
-    padding-left: 0;
-    }
 }
 
 #logo-container {
@@ -71,4 +89,41 @@ ul.side-nav.fixed ul.collapsible-accordion a.collapsible-header {
 a.button-collapse.top-nav i {
     font-size: 48px;
     color: #000;
+}
+
+nav.top-nav a.page-title {
+    line-height: 122px;
+    font-size: 400%;
+    font-family: 'Norse';
+    font-weight: bold;
+    font-style: normal;
+}
+
+nav.top-nav a.page-icons {
+    line-height: 122px;
+    font-size: 200%;
+    padding: 0;
+    margin-left: 20px;
+}
+
+nav.top-nav {
+    height: 122px;
+    /*box-shadow: none;*/
+}
+
+@media only screen and (max-width : 992px) {
+  header, main, footer {
+    padding-left: 0;
+    }
+    
+    nav.top-nav a.page-icons {
+    font-size: 150%;
+    padding: 0;
+    margin-left: 10px;
+    }
+    
+  nav.top-nav a.page-title {
+    line-height: 122px;
+    font-size: 300%;
+    }
 }
