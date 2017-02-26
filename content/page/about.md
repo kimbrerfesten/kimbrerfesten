@@ -1,31 +1,30 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "Om Kimbrerfesten"
+date = "2017-02-26T15:02:18+01:00"
 +++
 
-You can see my custom about-me page [here](http://mmrath.com/page/about-me/)
+##### Bag Kimbrerfesten står 11 idrætsklubber fra Aars:
 
-Hugo is a static site engine written in Go.
+[Aars Tennisklub](http://www.aarstennisklub.dk/)
 
+[Vesthimmerlands Handicap Idræt](http://foreningsportalen.vesthimmerland.dk/side.asp?wkid=9958&side=2&debtorinfoid=158)
 
-It makes use of a variety of open source projects including:
+[Aars Bordtennisklub](http://foreningsportalen.vesthimmerland.dk/side.asp?wkid=9958&side=2&debtorinfoid=10)
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+[Aars Skytteforening](http://foreningsportalen.vesthimmerland.dk/side.asp?wkid=9958&side=2&debtorinfoid=24)
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+[Aars Svømmeklub](http://aars-svommeklub.dk)
 
-## Setup
+[Aars Idrætsklub](http://www.aarsik.dk/)
 
-Some fun facts about [Hugo](http://gohugo.io/):
+[Aars Badmintonklub](http://www.aarsbadmintonklub.dk)
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+[Vesthimmerland Volleyball Klub](http://www.vesthimmerlands-vk.klub-modul.dk)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+[Aars Brydeklub](http://www.aars-brydeklub.dk/)
 
-Thanks for reading!
+[Aars Håndboldklub](http://www.aarshk.dk/)
+
+[Aars Gymnastikforening](http://aarsgymnastikforening.dk)
+
+Disse foreningger/klubber har valgt en komité til at stå for at arrangere Kimbrerfesten. Komitéen har nogle dygtige og flittige frivillige hjælpere som koordinere forskellige opgaver. se under [kontakt](http://localhost:1313/hugo/public/contact/) for den sidende komité

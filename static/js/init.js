@@ -1,11 +1,7 @@
  $(document).ready(function(){
-      $('.dropdown-button').dropdown({
-                inDuration: 300,
-                outDuration: 225,
-                hover: true,
-                belowOrigin: true,
-                alignment: 'right'
-            });
-            // Initialize collapse button
-        $(".button-collapse").sideNav();
+    $(".button-collapse").sideNav({
+        'edge': 'left',
+        closeOnClick: false, // Closes side-nav on &lt;a> clicks, useful for Angular/Meteor
+        draggable: true // Choose whether you can drag to open on touch screens
+    });
 });

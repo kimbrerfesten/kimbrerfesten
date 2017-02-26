@@ -23,14 +23,18 @@
             <a id="logo-container" href="http://kimbrerfesten.dk/hugo/public" class="brand-logo">
             <object id="front-page-logo" type="image/svg+xml" data="{{ .Site.BaseURL }}img/mand_200x86.svg" style="pointer-events: none;">Your browser does not support SVG</object></a></li>
         <li class="bold"><a href="/page/about" class="waves-effect waves-teal">Om</a></li>
-        <li class="bold"><a href="#" class="waves-effect waves-teal">Link 1</a></li>
+        <li class="bold"><a href="/contact" class="waves-effect waves-teal">Kontakt</a></li>
         <li class="no-padding">
-          <ul class="collapsible collapsible-accordion">
-            <li class="bold"><a class="collapsible-header  waves-effect waves-teal">Menu 1</a>
+          <ul class="collapsible collapsible-accordion" data-collapsible="expandable">
+            <li class="bold"><a class="collapsible-header  waves-effect waves-teal">Program</a>
               <div class="collapsible-body">
                 <ul>
-                  <li><a href="#">Link 1</a></li>
-                  <li><a href="#">Link 2</a></li>
+                    {{ $currentNode := . }}
+                    {{ $currentUrl := .URL }}
+                    {{ range .Site.Menus.program }}
+                    
+                      <li class="nav-item{{if $currentNode.IsMenuCurrent "program" . }} active{{end}}"><a class="nav-link menu-item" href="{{.URL}}">{{ .Name }}</a></li>
+                    {{end}}
                 </ul>
               </div>
             </li>

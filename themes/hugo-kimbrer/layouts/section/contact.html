@@ -1,0 +1,64 @@
+{{ partial "meta" . }}
+{{ partial "header" . }}
+<main>
+<div class="container">      
+{{ range $index, $element := (where .Data.Pages "Section" "contact") }}
+{{if mod (add $index 1) 2 }}
+<div class="row">
+    <div class="col s12 m6">
+      <div class="contact-height card-panel grey lighten-5 z-depth-1">
+        <div class="row valign-wrapper">
+          <div class="col s4 m4">
+            {{ with .Params.image }}
+            <img src="{{ . }}" alt="" class="circle responsive-img valign">
+            {{ else }}
+            <img src="contact.png" alt="" class="responsive-img valign">
+            {{ end }}
+          </div>
+          <div class="col s8 m8">
+              <h5>{{ .Title }}</h5>
+              {{ with .Params.name }}
+                <h5>{{ . }}</h5>
+              {{ end }}
+              <ul>
+                {{ with .Params.work }} <li>Arbejdsplads: {{.}},{{ end }} {{ with .Params.worktitle }}{{.}}</li>{{ end }}
+                {{ with .Params.email }}<li>Email:<a href="mailto:{{ . }}?Subject=Kimbrerkomite">Send Mail</a></li>{{ end }}
+                {{ with .Params.phone }}<li>Telefon: {{ . }}</li>{{ end }}
+              </ul>              
+          </div>
+        </div>
+      </div>
+    </div>
+  
+{{ else }}
+    <div class="col s12 m6">
+      <div class="contact-height card-panel grey lighten-5 z-depth-1">
+        <div class="row valign-wrapper">
+          <div class="col s4 m4">
+            {{ with .Params.image }}
+            <img src="{{ . }}" alt="" class="circle responsive-img valign">
+            {{ else }}
+            <img src="contact.png" alt="" class="responsive-img valign">
+            {{ end }}
+          </div>
+          <div class="col s8 m8">
+              <h5>{{ .Title }}</h5>
+              {{ with .Params.name }}
+                <h5>{{ . }}</h5>
+              {{ end }}
+              <ul>
+                {{ with .Params.work }} <li>Arbejdsplads: {{.}},{{ end }} {{ with .Params.worktitle }}{{.}}</li>{{ end }}
+                {{ with .Params.email }}<li>Email:<a href="mailto:{{ . }}?Subject=Kimbrerkomite">Send Mail</a></li>{{ end }}
+                {{ with .Params.phone }}<li>Telefon: {{ . }}</li>{{ end }}
+              </ul>              
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+{{ end }}
+{{ end }}
+</div>
+</main>
+
+{{ partial "footer" . }}
