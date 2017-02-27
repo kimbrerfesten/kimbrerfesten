@@ -12,7 +12,7 @@ theme = "hugo-kimbrer"
     pre = ""
     weight = -120
     identifier = "page"
-    url = "/page/about/"
+    url = "/about/"
 
 [[menu.main]]
     name = "Kontakt"
@@ -41,3 +41,11 @@ theme = "hugo-kimbrer"
     parent = "program"
     weight = -80
     url = "/program/torsdag"
+    
+
+[[menu.main]]
+    name = "Test"
+    pre = ""
+    weight = -70
+    identifier = "test"
+    url = "/program/onsdag"

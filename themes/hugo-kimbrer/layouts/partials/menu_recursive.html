@@ -2,31 +2,29 @@
 {{ $page := .page }}
 {{ $site := .site }}
 <!-- Menu items sorted alphabetically by name -->
-<ul>
-{{ range .menu.ByWeight }}
-  {{ $is := $page.IsMenuCurrent "main" . }}
-  {{ $has := $page.HasMenuCurrent "main" . }}
-  {{ if .HasChildren }}
-    <li class="no-padding">            
-      <ul class="collapsible collapsible-accordion">
-        <li class="bold {{ if $is }} active{{ end }}{{ if $has }} parent-active{{ end }}"><a class="collapsible-header  waves-effect waves-teal">{{ .Name }}</a>
-          <div class="collapsible-body">
-        <!-- Show a » symbol if there is a sub-menu we haven't rendered -->
-                {{ if not (or $is $has) }}{{ partial "menu_recursive.html" (dict "menu" .Children "page" $page "site" $site) }}{{ end }}
-            </div>
-            </li>
-          </ul>
-      </a>
-      <!-- Only render sub-menu for parent items and the current item -->
-      {{ if or $is $has }}
-        {{ partial "menu_recursive.html" (dict "menu" .Children "page" $page "site" $site) }}
-        
-      {{ end }}
-    </li>
-  {{ else }}
+ {{ range .menu.ByWeight }}
+ {{ $is := $page.IsMenuCurrent "main" . }}
+ {{ $has := $page.HasMenuCurrent "main" . }}
+ {{ if .HasChildren }}
+<li class="no-padding">
+ <ul class="collapsible collapsible-accordion">
+    <li class="bold {{ if $is }}active{{end}} "><a class="collapsible-header {{ if $is }}active{{end}} waves-effect waves-teal ">{{ .Name }}</a>
+ {{ else }}
     <li class="bold {{ if $is }}active{{end}}">
-      <a href="{{ .URL }}" class="waves-effect waves-teal">{{ .Name }}</a>
+    <a href="{{.URL}}">{{.Name}}</a></li>
+ {{ end }}
+  
+  {{ if .HasChildren }}
+    <div class="collapsible-body">
+      <ul>
+        {{ range .Children }}
+           <li class="{{ if $is }}active{{end}}"><a href="{{.URL}}">{{.Name}}</a></li>
+        {{ end }}
+       </ul>
+      </div>
     </li>
+  </ul>
+</li>
   {{ end }}
+
 {{ end }}
-</ul>
