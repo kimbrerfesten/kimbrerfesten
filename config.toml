@@ -7,17 +7,37 @@ canonifyurls = true
 paginate = 3
 theme = "hugo-kimbrer"
 
+[[menu.main]]
+    name = "Om"
+    pre = ""
+    weight = -120
+    identifier = "page"
+    url = "/page/about/"
 
-[[menu.program]]
-    name = "Onsdag"
+[[menu.main]]
+    name = "Kontakt"
+    pre = ""
+    weight = -110
+    identifier = "contact"
+    url = "/contact/"
+
+[[menu.main]]
+    name = "Program"
     pre = ""
     weight = -100
-    identifier = "onsdag"
+    identifier = "program"
+    url = "/program/"
+    
+[[menu.main]]
+    name = "Onsdag"
+    pre = ""
+    parent = "program"
+    weight = -90
     url = "/program/onsdag"
 
-[[menu.program]]
+[[menu.main]]
     name = "Torsdag"
     pre = ""
-    weight = -90
-    identifier = "torsdag"
+    parent = "program"
+    weight = -80
     url = "/program/torsdag"
