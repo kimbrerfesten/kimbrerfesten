@@ -2,7 +2,9 @@
 date = "2017-02-26T20:45:43+01:00"
 title = "Onsdag"
 weight = 1
-
+[menu.main]
+name = "Onsdag"
+parent = "Program"
 +++
 
 ### Onsdag

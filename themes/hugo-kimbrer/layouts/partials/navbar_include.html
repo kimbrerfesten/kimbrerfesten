@@ -1,1 +1,25 @@
-{{ partial "menu_recursive.html" (dict "menu" .Site.Menus.main "page" . "site" .Site) }}
+{{ $page := . }}  
+  {{ range .Site.Menus.main }}
+     {{ if .HasChildren }}
+        <li class="no-padding">
+         <ul class="collapsible collapsible-accordion">
+            <li class="bold {{ if eq $page.RelPermalink .URL }}active{{ end }} {{if in $page.RelPermalink .URL }}active{{ end }} "><a class="collapsible-header {{ if eq $page.RelPermalink .URL }}active{{ end }} {{if in $page.RelPermalink .URL }}active{{ end }} waves-effect waves-teal ">{{ .Name }}</a>
+         {{ else }}
+            <li class="bold {{ if eq $page.RelPermalink .URL }}active{{ end }} {{if in $page.RelPermalink .URL }}active{{ end }}">
+    <a href="{{.URL}}">{{.Name}}</a></li>   
+         {{ end }}
+
+     {{ if .HasChildren }}
+        <div class="collapsible-body">
+          <ul>
+            {{ range .Children }}
+               <li class="{{ if eq $page.RelPermalink .URL }}active{{ end }}"><a href="{{.URL}}">{{.Name}}</a></li>
+            {{ end }}
+           </ul>
+          </div>
+        </li>
+      </ul>
+    </li>
+      {{ end }}
+
+  {{ end }}
