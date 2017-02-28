@@ -47,7 +47,11 @@ h1,h2,h3,h4,h5,.card-title {
 
 .card .card-title {
     font-size: 40px;
-    font-weight: 600;
+    font-weight: bold;
+}
+
+.card .card-image .card-title {
+    color: #000;
 }
 
 .light, footer.page-footer .footer-copyright {
