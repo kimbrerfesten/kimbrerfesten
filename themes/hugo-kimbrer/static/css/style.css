@@ -136,7 +136,7 @@ nav.top-nav a.page-icons {
 }
 
 nav.top-nav {
-    height: 122px;
+    height: inherit;
     /*box-shadow: none;*/
 }
 
