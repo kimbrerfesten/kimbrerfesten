@@ -28,7 +28,6 @@
                 <div class="col s12 m8 l9">
                 {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
                     {{ range $paginator.Pages }}
-                        <div class="section scrollspy">
                           <div class="card">
                             <div class="card-image">
                             {{ with .Params.image }}
@@ -45,7 +44,6 @@
                               <a href="{{ .Permalink }}">Læse mere</a>
                             </div>
                           </div>
-                        </div>
                     {{ end }}
 
                     
@@ -64,10 +62,17 @@
 -->
                 </div>
                 <div class="col hide-on-small-only m4 l3">
-                  <ul class="section table-of-contents">
-                      <h4 class="center-align">Sponsorer</h4>
-                      <li class="center-align"><a href="http://aarsel.dk/" target="_blank"><img src="{{ .Site.BaseURL }}img/sponsor/aarsellogo.jpg"></a></li>
-<!--                    <li class="center-align"><img src="{{ .Site.BaseURL }}img/sponsor/aarsellogo.jpg"></li>-->
+                    <h4 class="center-align">Sponsorer</h4>
+                  <ul>
+                      
+                      {{ range (where .Data.Pages "Type" "sponsor") }}
+                          <div class="card">
+                            <div class="card-image">
+                                <li class="center-align"><a href="{{ .Params.link }}" target="_blank"><img src="{{ .Site.BaseURL }}img/sponsor/{{ .Params.image }}"></a></li>
+                            </div>
+                        </div>
+                      {{ end }}
+                      
                   </ul>
                 </div>
             </div>
