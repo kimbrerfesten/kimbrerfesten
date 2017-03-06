@@ -1,7 +1,15 @@
   <footer class="page-footer red darken-2">
     <div class="container">
       <div class="row">
-        <div class="col l12 s12">
+        <div class="col s12 m4 l4">
+        <h5 class="white-text">Seneste indlæg</h4>
+          <ul>
+             {{ range first 3 (where .Site.Pages "Type" "post") }}
+                <li><a href="{{ .Permalink }}" class="footer-link">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="col s12 m8 l8">
           <h5 class="white-text">Kimbrerfesten</h5>
           <p class="grey-text text-lighten-4">Er organiseret som en forening, der har til formål at rejse penge til idrætten og foreningslivet i Aars og omegn.</p>
         </div>
