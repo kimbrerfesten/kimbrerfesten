@@ -1,0 +1,5 @@
+<!-- image -->
+<figure>
+    <img class="materialboxed" style="margin:auto;" width="80%" src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
+</figure>
+<!-- image -->
