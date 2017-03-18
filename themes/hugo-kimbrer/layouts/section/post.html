@@ -16,8 +16,8 @@
                             {{ end }}
                               <span class="card-title">{{ .Title }}</span>
                             </div>
-                            <div class="card-content">
-                              {{slicestr .Summary 0 100}}....
+                            <div class="card-content truncate">
+                              {{ .Summary }}....
                             </div>
                             <div class="card-action">
                               <a href="{{ .Permalink }}">Læse mere</a>
