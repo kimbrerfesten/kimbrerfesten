@@ -16,9 +16,9 @@
             {{ end }}
           </div>
           <div class="col s8 m8">
-              <h5>{{ .Title }}</h5>
+              <h5 class="norse-font">{{ .Title }}</h5>
               {{ with .Params.name }}
-                <h5>{{ . }}</h5>
+                <h5 class="norse-font">{{ . }}</h5>
               {{ end }}
               <ul>
                 {{ with .Params.work }} <li>Arbejdsplads: {{.}},{{ end }} {{ with .Params.worktitle }}{{.}}</li>{{ end }}
@@ -42,9 +42,9 @@
             {{ end }}
           </div>
           <div class="col s8 m8">
-              <h5>{{ .Title }}</h5>
+              <h5 class="norse-font">{{ .Title }}</h5>
               {{ with .Params.name }}
-                <h5>{{ . }}</h5>
+                <h5 class="norse-font">{{ . }}</h5>
               {{ end }}
               <ul>
                 {{ with .Params.work }} <li>Arbejdsplads: {{.}},{{ end }} {{ with .Params.worktitle }}{{.}}</li>{{ end }}

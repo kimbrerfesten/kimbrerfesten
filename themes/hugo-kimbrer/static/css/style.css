@@ -39,7 +39,7 @@ body {
     flex: 1 0 auto;
   }
 
-h1,h2,h3,h4,h5,.card-title {
+h1,h2,h3,.card-title,.norse-font {
     font-family: 'Norse';
     font-weight: bold;
     font-style: normal;
@@ -96,8 +96,12 @@ footer.page-footer {
   margin: 0;
 }
 
+.container {
+    width: 80%;
+}
+
 header, main, footer {
-  padding-left: 300px;
+  padding-left: 200px;
 }
 
 #logo-container {
