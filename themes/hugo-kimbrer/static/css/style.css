@@ -55,6 +55,10 @@ p a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #2DB28A;
+}
+
 .footer-link:hover, p a:hover {
     color: #2DB28A;
 }

@@ -9,8 +9,4 @@ parent = "Program"
 
 ### Torsdag
 
-| 1 | 2 | 3 | 4 | 5 |
-|:-:|:-:|:-:|:-:|:-:|
-| 1 | 2 | 3 | 4 | 5 |
-| 1 | 2 | 3 | 4 | 5 |
-| 1 | 2 | 3 | 4 | 5 |
+{{< display_table_csv_program file="content/program/torsdag.csv" class="striped bordered" >}}
