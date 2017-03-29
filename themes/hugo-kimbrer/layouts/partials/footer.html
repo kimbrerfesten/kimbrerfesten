@@ -4,7 +4,7 @@
         <div class="col s6 m4 l4">
         <h5 class="white-text norse-font">Seneste indlæg</h4>
           <ul>
-             {{ range first 3 (where .Site.Pages "Type" "post") }}
+             {{ range first 4 ( after 1 (where .Site.Pages "Type" "post")) }}
                 <li><a href="{{ .Permalink }}" class="footer-link">{{ .Title }}</a></li>
             {{ end }}
           </ul>
