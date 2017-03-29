@@ -10,10 +10,14 @@
   <tr>
     {{ range $col_i, $col := $row }}
       
-        {{ if eq $col_i 3 }}
+        {{ if or (eq $col_i 3) (eq $col_i 4) }}
         {{else}}
             {{ if eq $col_i 2 }}
-            <td> <a href="../../{{ index $row 3 }}">{{ $col }}</a> </td>
+                {{ if (index $row 4) }}
+                    <td> <a href="http://{{ index $row 4 }}">{{ $col }}</a> </td>
+                {{ else }}
+                    <td> <a href="../../{{ index $row 3 }}">{{ $col }}</a> </td>
+                {{ end }}
             {{ else }}
             <td>{{ $col }}</td>
             {{ end }}

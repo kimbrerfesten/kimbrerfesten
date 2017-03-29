@@ -1,14 +1,12 @@
 +++
+date = "2017-02-26T20:45:43+01:00"
 title = "Fredag"
-weight = 4
-date = "2017-02-27T21:10:50+01:00"
-
-[menu]
-
-  [menu.main]
-    parent = "Program"
-    name = "Fredag"
-
+weight = 3
+[menu.main]
+name = "Fredag"
+parent = "Program"
 +++
 
 ### Fredag
+
+{{< display_table_csv_program file="content/program/fredag.csv" class="striped bordered" >}}

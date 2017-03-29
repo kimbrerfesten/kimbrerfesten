@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <provider>
+        <title><![CDATA[NemTilmeld Aps]]></title>
+        <address><![CDATA[Strømmen 6]]></address>
+        <zipcode><![CDATA[9400]]></zipcode>
+        <city><![CDATA[Nørresundby]]></city>
+        <email><![CDATA[info@nemtilmeld.dk]]></email>
+        <phone><![CDATA[+45 70404070]]></phone>
+        <website><![CDATA[https://www.nemtilmeld.dk]]></website>
+    </provider>
+    <events>
+                                    <event id="61278">
+                                    <series_id>2206</series_id>
+                    <series_name><![CDATA[Kimbrerfesten 2017]]></series_name>
+                                    <org_event_id>22</org_event_id>
+                    <title><![CDATA[Test arrangement]]></title>
+                                    <thumbnail>
+                                                    https://kimbrerfesten.nemtilmeld.dk/images/event_thumbnails/11351/61278.png
+                                            </thumbnail>
+                                                    <thumbnail_original>
+                                                    https://kimbrerfesten.nemtilmeld.dk/images/event_thumbnails/11351/61278_large.png
+                                            </thumbnail_original>
+                                
+                    <description><![CDATA[<p>Dette er et test arrangement</p>]]></description>
+                    <description_short><![CDATA[Dette er et test arrangement]]></description_short>
+                    <start_time>2017-06-10 9:00 am</start_time>
+                    <end_time>2017-06-10 4:00 pm</end_time>
+                    <deadline>2017-06-10 9:00 am</deadline>
+                    <start_time_common>2017-06-10 09:00:00</start_time_common>
+                    <end_time_common>2017-06-10 16:00:00</end_time_common>
+                    <deadline_time_common>2017-06-10 09:00:00</deadline_time_common>
+                    <tickets>
+                                                                                    <ticket id="113641">
+                                    <label><![CDATA[Standard]]></label>
+                                    <display_order>0</display_order>
+                                                                            <price>
+                                            <price_without_vat>100.00</price_without_vat>
+                                            <vat>0.00</vat>
+                                            <price_with_vat>100.00</price_with_vat>
+                                            <currency_iso_code>DKK</currency_iso_code>
+                                            <vat_rate>0</vat_rate>
+                                        </price>
+                                                                    </ticket>
+                                                                        </tickets>
+                    <available_tickets>true</available_tickets>
+                    <available_tickets_quantity>100</available_tickets_quantity>
+                    <highest_ticket_price>100</highest_ticket_price>
+                    <few_tickets_left>false</few_tickets_left>
+                                    <url>https://kimbrerfesten.nemtilmeld.dk/22/</url>
+                                    <images>
+                                            </images>
+                    <categories>
+                                        </categories>
+                                        <location id="13272">
+                        <name><![CDATA[Kimbrerfesten]]></name>
+                        <address><![CDATA[Messevej 3]]></address>
+                        <zipcode><![CDATA[9600]]></zipcode>
+                        <city><![CDATA[Aars]]></city>
+                        <country><![CDATA[DK]]></country>
+                        <description><![CDATA[]]></description>
+                    </location>
+                                        <organization id="11351">
+                        <title><![CDATA[Kimbrerfesten]]></title>
+                        <address><![CDATA[Dalstrøget 17]]></address>
+                        <zipcode><![CDATA[9600]]></zipcode>
+                        <city><![CDATA[Aars]]></city>
+                        <phone><![CDATA[51804284]]></phone>
+                        <country><![CDATA[DK]]></country>
+                        <url><![CDATA[https://kimbrerfesten.nemtilmeld.dk/]]></url>
+                        <description><![CDATA[<p><span style="font-size: 18pt;">Kimbrerfesten - Byfest for alle i Aars</span></p>
+<p><span style="font-size: 12pt;">Altid uge 36 - afholdes i år på den ny festplads ved Messecenter Vesthimmerland.</span></p>]]></description>
+                        <email><![CDATA[Formand@kimbrerfesten.dk]]></email>
+                    </organization>
+                    <contact_details>
+                        <name><![CDATA[
+                                                            Kimbrerfesten
+                                                    ]]></name>
+                        <phone><![CDATA[51804284]]></phone>
+                        <email><![CDATA[Formand@kimbrerfesten.dk]]></email>
+                    </contact_details>
+                </event>
+                        </events>
+</data>

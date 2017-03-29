@@ -1,7 +1,7 @@
 +++
 title = "Torsdag"
 date = "2017-03-19"
-weight = 2
+weight = 1
 [menu.main]
 name = "Torsdag " #Remember space after to not clash with program
 parent = "Bus"
