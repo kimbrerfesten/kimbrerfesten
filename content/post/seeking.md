@@ -4,8 +4,6 @@ title = "Kimbrerfesten søger folk"
 image = "volunteer.png"
 +++
 
-#### Kimbrerfesten søger folk
-
 ##### Pladsmester og -svend
 I får ansvaret for brug og indretning af festpladsen, en del af opgaverne løses i løbet året.
 

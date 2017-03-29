@@ -4,7 +4,7 @@ title = "Ny hjemmeside"
 image = "newhomepage.jpg"
 +++
 
-Velkommen til Kimbrerfestens ny hjemmeside.
+Velkommen til Kimbrerfestens nye hjemmeside.
 
 Vi håber at det nye layout gør det nemmere at navigere på siden.
 

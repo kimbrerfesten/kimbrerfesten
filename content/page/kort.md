@@ -1,14 +1,11 @@
 +++
-title = "Disclaimer"
+title = "Kort"
 date = "2015-10-01"
 weight = 1
 [menu.main]
 name = "Kort"
 parent = "Info"
 +++
-
-
-## Kort
 
 Kimbrerfesten glæder sig til at kunne byde velkommen i nye rammer, hvor der bliver plads til en række nye tiltag, der vil give publikum en anderledes og forhåbentlig bedre oplevelse. 
 

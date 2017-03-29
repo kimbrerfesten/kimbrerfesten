@@ -7,6 +7,4 @@ name = "Onsdag"
 parent = "Program"
 +++
 
-### Onsdag
-
 {{< display_table_csv_program file="content/program/onsdag.csv" class="striped bordered" >}}

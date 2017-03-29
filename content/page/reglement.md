@@ -7,8 +7,6 @@ name = "Reglement"
 parent = "Info"
 +++
 
-## Reglement  
-
 ***
 >Adgang til festpladsen på cykel, rulleskøjter, knallerter, biler osv. er ikke tilladt, dog tilladt til handicappede og gangbesværede.   
 

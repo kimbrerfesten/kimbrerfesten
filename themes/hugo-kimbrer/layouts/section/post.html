@@ -14,9 +14,9 @@
                             {{ else }}
                               <img src="{{  $.Site.BaseURL }}img/defaultpost.png">    
                             {{ end }}
-                              <span class="card-title">{{ .Title }}</span>
                             </div>
                             <div class="card-content truncate">
+                            <span class="card-title activator grey-text text-darken-2">{{ .Title }}</span>
                               {{ .Summary }}....
                             </div>
                             <div class="card-action">

@@ -1,13 +1,11 @@
 +++
-title = "Fredag"
+title = "Fredag ruteplan"
 date = "2017-03-19"
 weight = 2
 [menu.main]
-name = "Fredag " #Remember space after to not clash with program
+name = "Fredag plan"
 parent = "Bus"
 +++
-
-## Ruteplan fredag
 
 #### Rød Rute
 
