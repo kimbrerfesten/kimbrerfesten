@@ -20,4 +20,6 @@ For når det kommer til stykket, handler det jo om at skaffe penge til ungdoms- 
 
 Til gengæld håber og forventer klubberne at få en god skilling med tilbage, så byens unge kan få gode oplevelser og udfordringer i det kommende år i klubberne.
 
-{{< imgpopup src="/page/Festplads2016.png" >}}
+{{< imgpopup src="/page/Festplads2017.png" >}}
+
+{{< imgpopup src="/page/2doversigt.png" >}}
