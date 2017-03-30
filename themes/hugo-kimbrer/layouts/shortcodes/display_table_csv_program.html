@@ -14,7 +14,7 @@
         {{else}}
             {{ if eq $col_i 2 }}
                 {{ if (index $row 4) }}
-                    <td> <a href="http://{{ index $row 4 }}">{{ $col }}</a> </td>
+                    <td> <a target="_blank" href="http://{{ index $row 4 }}">{{ $col }}</a> </td>
                 {{ else }}
                     <td> <a href="../../{{ index $row 3 }}">{{ $col }}</a> </td>
                 {{ end }}
