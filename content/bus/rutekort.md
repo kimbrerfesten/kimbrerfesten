@@ -7,4 +7,4 @@ name = "Rutekort"
 parent = "Bus"
 +++
 
-{{< imgpopup src="/bus/ruteplan_2016.jpg" >}}
+{{< imgpopup src="/bus/MidtbusRuteplan.png" >}}
