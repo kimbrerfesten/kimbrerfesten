@@ -13,13 +13,14 @@
                             {{ else }}
                               <img src="{{  $.Site.BaseURL }}img/defaultpost.png">    
                             {{ end }}
-                              <span class="card-title">{{ .Title }}</span>
                             </div>
-                            <div class="card-content">
-                              {{slicestr .Summary 0 100}}....
+                              
+                            <div class="card-content truncate">
+                            <span class="card-title activator grey-text text-darken-3">{{ .Title }}</span>
+                              {{ .Summary }}....
                             </div>
                             <div class="card-action">
-                              <a href="{{ .Permalink }}">Læse mere</a>
+                              <a href="{{ .Permalink }}">Læs mere</a>
                             </div>
                           </div>
                     {{ end }}
