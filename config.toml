@@ -1,4 +1,4 @@
-baseurl = "http://kimbrerfesten.dk/hugo/public/"
+baseurl = "http://kimbrerfesten.dk/"
 languageCode = "da-dk"
 title = "Kimbrerfesten"
 author = "Niels Linnemann"
