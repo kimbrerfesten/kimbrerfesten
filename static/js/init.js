@@ -6,5 +6,7 @@
         draggable: true // Choose whether you can drag to open on touch screens
     });
     $('.materialboxed').materialbox();
-    $('.slider').slider();
+    $('.slider').slider({
+    
+    });
 });
