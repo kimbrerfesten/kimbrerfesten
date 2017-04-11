@@ -1,0 +1,7 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www.kimbrerfesten.dk [NC]
+RewriteRule ^(.*)$ http://kimbrerfesten.dk/$1 [L]
+RewriteCond %{REQUEST_URI} !^/public/.*$
+RewriteRule ^(.*)$ /public/$1 [L]
