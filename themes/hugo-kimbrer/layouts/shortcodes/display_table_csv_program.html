@@ -19,7 +19,7 @@
                     <td> <a href="../../{{ index $row 3 }}">{{ $col }}</a> </td>
                 {{ end }}
             {{ else }}
-            <td>{{ $col }}</td>
+            <td>{{ $col | safeHTML }}</td>
             {{ end }}
         {{ end }}  
     {{ end }}
