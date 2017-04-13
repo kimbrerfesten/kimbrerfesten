@@ -30,4 +30,4 @@ name = "Om"
 
 {{% a_blank "Aars Gymnastikforening" "http://aarsgymnastikforening.dk" %}}
 
-Disse foreningger/klubber har valgt en komité til at stå for at arrangere Kimbrerfesten. Komitéen har nogle dygtige og flittige frivillige hjælpere som koordinere forskellige opgaver. se under [kontakt](http://localhost:1313/hugo/public/contact/) for den sidende komité
+Disse foreningger/klubber har valgt en komité til at stå for at arrangere Kimbrerfesten. Komitéen har nogle dygtige og flittige frivillige hjælpere som koordinere forskellige opgaver. se under [kontakt](http://kimbrerfesten.dk/contact/) for den sidende komité
