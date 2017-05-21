@@ -55,6 +55,14 @@ p a {
     text-decoration: none;
 }
 
+p.partners a{
+    color: #fff;
+}
+
+.partners:hover {
+    color: #2DB28A;
+}
+
 .footer-link {
     color: #fff;
     text-decoration: none;
