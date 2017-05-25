@@ -1,0 +1,4 @@
+<!-- {{/*
+Usage: {{% a_mail "MAIL" %}}
+*/}}-->
+<a target="_top" href="mailto:{{ .Get 0 }}">{{ .Get 0 | markdownify }} <i class="fa fa-envelope"></i></a>
