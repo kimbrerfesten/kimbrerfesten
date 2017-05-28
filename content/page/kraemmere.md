@@ -25,7 +25,7 @@ Pr. mail til {{% a_mail "marked@kimbrerfesten.dk" %}}  senest 15.08.2017.
 
 #### Til og frakørsel
 
-Benyt indkørsel længst mod vest (ved mobil-masten). Det er ikke tilladt at køre ind fra hovedindgangen.
+Benyt indkørsel længst mod vest ({{% a_link "kort" "/page/kort/" %}} ved mobil-masten). Det er ikke tilladt at køre ind fra hovedindgangen.
 Standlejen betales før ankomst, ingen adgang før lejen er betalt.
 
 Venlig hilsen

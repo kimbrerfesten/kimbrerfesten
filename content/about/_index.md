@@ -1,7 +1,7 @@
 +++
 title = "Om Kimbrerfesten"
 date = "2017-02-26T15:02:18+01:00"
-weight = 1
+weight = 10
 [menu.main]
 name = "Om"
 +++
