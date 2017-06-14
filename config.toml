@@ -4,5 +4,5 @@ title = "Kimbrerfesten"
 author = "Niels Linnemann"
 copyright = "Copyright (c) 2008 - 2017, Kimbrerfesten; all rights reserved."
 canonifyurls = true
-paginate = 4
+paginate = 6
 theme = "hugo-kimbrer"
