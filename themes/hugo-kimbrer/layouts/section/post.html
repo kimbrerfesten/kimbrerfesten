@@ -7,22 +7,23 @@
                 {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
                     {{ range $paginator.Pages }}
                     <div class="col s6 m6 l6">
+                        <a href="{{ .Permalink }}">
                           <div class="card">
-                            <div class="card-image">
+                            <div class="card-image">                                
                             {{ with .Params.image }}
                               <img src="{{  $.Site.BaseURL }}img/{{ . }}">
                             {{ else }}
                               <img src="{{  $.Site.BaseURL }}img/defaultpost.png">    
                             {{ end }}
+                                
                             </div>
                             <div class="card-content truncate">
                             <span class="card-title activator grey-text text-darken-2">{{ .Title }}</span>
                               {{ .Summary }}....
                             </div>
-                            <div class="card-action">
-                              <a href="{{ .Permalink }}">Læse mere</a>
-                            </div>
+                            
                           </div>
+                            </a>
                     </div>
                     {{ end }}
                 </div>
