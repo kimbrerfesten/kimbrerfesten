@@ -7,7 +7,7 @@ draft = false
 
 #### Regler for Kimbrerfesten Le Mans
 {{% li_bullet "Man skal min i pit 3 gange og der skal skiftes kører, hver køre skal mindst kører 10 min." %}}
-{{% li_bullet "Gokarten skal holde helt stille ved skift, kørsel i pitten foregår langtsom." %}}
+{{% li_bullet "Gokarten skal holde helt stille ved skift, kørsel i pitten foregår langsomt." %}}
 {{% li_bullet "Bevidst påkørsel giver 15 sek. Straf i pitten" %}}
 {{% li_bullet "De 2 bedste fra hver indledende hit går videre til finalen" %}}
 {{% li_bullet "De 3 vindere starter 1-3 ud fra hurtigst omgangstid fra indledende hit" %}}
