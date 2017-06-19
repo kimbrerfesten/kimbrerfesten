@@ -12,6 +12,6 @@ deploy:
         destination: ftp://ws44.surftown.com/kimbrerfesten.dk/
         username: kimbreradmin
         password: $FTP_PASS
-        remote-file: ./protected/werckerSync.txt
+        #remote-file: ./protected/werckerSync.txt
         exclude-file: ".htaccess .git/ .gitignore /wercker.yml /content/ /themes/ /static/ config.toml" 
         simulation: true
