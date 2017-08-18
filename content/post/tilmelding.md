@@ -18,7 +18,7 @@ send mail til {{% a_mail "marked@kimbrerfesten.dk" %}}
 
 ---
 #### Bestilling af billetter og mad.
-brug {{% a_link "https://kimbrerfesten.nemtilmeld.dk" %}} senest 3-9.
+brug {{% a_blank_inline "Nemtilmeld" "https://kimbrerfesten.nemtilmeld.dk" %}} senest 3-9.
 
 ---
 #### Bemærk: kagedyst er aflyst!
