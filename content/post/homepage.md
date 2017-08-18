@@ -2,6 +2,7 @@
 date = "2017-03-06T20:00:33+01:00"
 title = "Ny hjemmeside"
 image = "newhomepage.jpg"
+draft = true
 +++
 
 Velkommen til Kimbrerfestens nye hjemmeside.
