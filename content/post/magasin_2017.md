@@ -12,4 +12,6 @@ For dem der har "reklamer nej tak" er det nu muligt at afhente en kopi af Kimbre
 {{% li_bullet "Aars Avis" %}} 
 {{% li_bullet "Tombola vognen, når den bliver sat op" %}} 
 
+Alle andre skulle modtage Kimbrerfest magasinet sammen med Aars avis senere.
+
 Senere vil der også komme et direkte link til en PDF af magasinet.
