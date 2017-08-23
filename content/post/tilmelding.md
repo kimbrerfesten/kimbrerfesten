@@ -9,7 +9,7 @@ draft = false
 
 
 #### Tilmelding til optoget senest 1-9.
-send mail til {{% a_mail "optog@kimbrerpladsen.dk" %}} 
+send mail til {{% a_mail "optog@kimbrerfesten.dk" %}} 
 
 ---
 
