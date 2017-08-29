@@ -1,5 +1,5 @@
 +++
-date = "2017-08-18T10:39:58+02:00"
+date = "2017-08-29T10:39:58+02:00"
 title = "Tilmeldinger"
 image = "Optog2015.jpg"
 draft = false
