@@ -7,14 +7,14 @@ draft = false
 
 Så er der program for DJ's fredag aften.
 
-##### Kl. 21 - 22 : Nicolai K.
+##### Kl. 21 - 23 : Nicolai K.
 Han er kendt fra lokalområdet.
 
 ----
 
-##### Kl. 23 - 24 : Martin Jensen.
-Han er kendt fra lokalområdet og laver blandt andet sit eget musik. 
-Hitter med "Solo Dance" og "All I Wanna Do".
+##### Kl. 23 - 01 : Martin Jensen aka. LÄMMERFYR.
+Han er kendt fra lokalområdet og laver blandt andet sit eget musik.
+Hør hans Soundcloud {{% a_blank_inline "her" "https://soundcloud.com/laemmerfyr" %}}.
 
 ----
 
@@ -23,6 +23,6 @@ Han er kendt som radiovært på Radio ABC. Han optrådte til Danish DeeJay Award
 
 ----
 
-I pauserne spiller {{% a_blank_inline "Mobildiskotek XQlusive" "http://diskotek-xqlusive.dk/" %}}.
+Som optakt spiller {{% a_blank_inline "Mobildiskotek XQlusive" "http://diskotek-xqlusive.dk/" %}}.
 
 Så er det bare at dukke op til en rigtig fed fest i Valhal.
