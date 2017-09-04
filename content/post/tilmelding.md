@@ -17,7 +17,7 @@ send mail til {{% a_mail "optog@kimbrerfesten.dk" %}}
 send mail til {{% a_mail "marked@kimbrerfesten.dk" %}}
 
 ---
-#### Bestilling af billetter og mad.
+#### Bestilling af billetter til fest, gokart, mad m.v.
 brug {{% a_blank_inline "Nemtilmeld" "https://kimbrerfesten.nemtilmeld.dk" %}} senest 3-9.
 
 ---
