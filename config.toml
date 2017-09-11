@@ -10,4 +10,4 @@ theme = "hugo-kimbrer"
 
 
 [params]
-    surveylink = "https://www.surveymonkey.com/r/GM7HFDB"
+    surveylink = "" #"https://www.surveymonkey.com/r/GM7HFDB"
