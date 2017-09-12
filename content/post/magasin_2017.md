@@ -2,7 +2,7 @@
 date = "2017-08-22T10:39:58+02:00"
 title = "Magasin 2017"
 image = "magasin_2017.png"
-draft = false
+draft = true
 +++
 
 For dem der har "reklamer nej tak" er det nu muligt at afhente en kopi af Kimbrerfest magasinet hos.

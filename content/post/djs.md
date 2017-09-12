@@ -2,7 +2,7 @@
 date = "2017-08-24T10:39:58+02:00"
 title = "DJ's 2017"
 image = "dj.jpg"
-draft = false
+draft = true
 +++
 
 Så er der program for DJ's fredag aften.

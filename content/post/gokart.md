@@ -2,7 +2,7 @@
 date = "2017-06-14T10:47:06+02:00"
 title = "Gokart regler"
 image = "gokart.jpg"
-draft = false
+draft = true
 +++
 
 #### Regler for Kimbrerfesten Le Mans
