@@ -18,8 +18,7 @@ nyt kort.
 
 ---
 
-Tøj, nøgler, telefoner mv.  kontakt Karl Lausten på
-info@kimbrerfesten.dk {{% a_mail "info@kimbrerfesten.dk" %}}  eller tlf. 40269588 og
+Tøj, nøgler, telefoner mv.  kontakt Karl Lausten på {{% a_mail "info@kimbrerfesten.dk" %}}  eller tlf. 40269588 og
 beskriv det tabte, så Karl kan afgøre om vi har fundet det, du savner.
 
 
