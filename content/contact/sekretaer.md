@@ -1,12 +1,12 @@
 +++
 title = "Sekretær"
-work = "Spar Nord"
+work = "Viborg Kommune"
 image = "sekretaer.png"
 weight = "3"
 date = "2017-02-26T20:15:06+01:00"
-worktitle = "afdelingsdirektør"
+worktitle = "Socialrådgiver"
 phone = ""
-name = "Klaus H. Frederiksen"
+name = "Kristian Virenfeldt"
 email = "sekretaer@kimbrerfesten.dk"
 
 +++
