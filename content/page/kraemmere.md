@@ -9,24 +9,32 @@ parent = "Info"
 
 #### Information til kræmmere
 
-Kimbrerfesten tilbyder stande i 6 meters dybde og variabel bredde. Du betaler pr løbende meter i bredden. Særlige størrelser kan arrangeres efter aftale. Betalingen dækker standleje med adgang til bad og toilet på pladsen, og el-tilslutning med et forbrug på max 100 W pr løbende meter standbredde.
+Kimbrerfesten tilbyder stande i 6 meters dybde og 3, 6 eller 9 meters bredde. Du betaler pr modul i bredden. Betalingen dækker standleje med adgang til vand og toilet på pladsen. Der er ingen el-tilslutning ved standene.
 
-Der er mulighed for at købe aftensmad fredag og lørdag, og for morgenbrød m. kaffe og frokost lørdag og søndag. Morgenbrød bestilles senest kl. 21 aftenen forud på festpladsens kontor, udleveres i Langhuset mellem kl. 9 og 10. 
 
-Der må ikke handles med mad og drikke til indtagelse på pladsen. Der må ikke handles med levende dyr.
+Der er mulighed for at købe mad på pladsen. Kræmmere må medbringe madpakke til eget forbrug.
 
-Der sikkerhedsvagter på pladsen om aftenen og hundepatrulje om natten. Kræmmermarkedet afskærmes fra festpublikum med festivalhegn efter mørkets frembrud.
+Der må ikke handles med mad og drikke til indtagelse på pladsen.
 
-Kræmmermarkedet starter fredag kl 14 og lukker søndag kl 17.
+Der må ikke handles med levende dyr.
+
+
+Kræmmermarkedet starter søndag kl 14 og lukker søndag kl 18.
 
 #### Pladsbestilling
 
-Pr. mail til {{% a_mail "marked@kimbrerfesten.dk" %}}  senest 15.08.2017.
+Kun gennem  {{% a_link "NemTilmeld" "https://kimbrerfesten.nemtilmeld.dk/34/" %}}
+
+Seneste tilmelding 31.08.2018 kl 16:00.
 
 #### Til og frakørsel
 
-Benyt indkørsel længst mod vest ({{% a_link "kort" "/page/kort/" %}} ved mobil-masten). Det er ikke tilladt at køre ind fra hovedindgangen.
-Standlejen betales før ankomst, ingen adgang før lejen er betalt.
+Benyt indkørsel længst mod vest ({{% a_link "kort" "/page/kort/" %}} ved mobil-masten).
+Det er ikke tilladt at køre ind fra hovedindgangen. 
+
+Standlejen betales ved tilmelding. Ingen adgang uden tilmelding jf ovenfor.
+
 
 Venlig hilsen
+
 Karl Lausten

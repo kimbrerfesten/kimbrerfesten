@@ -6,8 +6,10 @@ copyright = "Copyright (c) 2008 - 2017, Kimbrerfesten; all rights reserved."
 canonifyurls = true
 paginate = 6
 
+
 theme = "hugo-kimbrer"
 
 
 [params]
     surveylink = "" #"https://www.surveymonkey.com/r/GM7HFDB"
+    eventDate = "D. 6. - 9. SEPTEMBER 2018"
