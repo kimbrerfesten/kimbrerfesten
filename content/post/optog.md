@@ -2,7 +2,7 @@
 date = "2017-09-10T10:39:58+02:00"
 title = "Vinder optog"
 image = "Optog2015.jpg"
-draft = false
+draft = true
 +++
 
 

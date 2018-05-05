@@ -2,7 +2,7 @@
 date = "2017-09-11T10:39:58+02:00"
 title = "Vinder lodder gudestafet"
 image = "stafet.jpg"
-draft = false
+draft = true
 +++
 
 

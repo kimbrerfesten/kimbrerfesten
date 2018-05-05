@@ -2,7 +2,7 @@
 date = "2017-09-10T10:39:58+02:00"
 title = "Årets Kimbrer"
 image = "kimbrer.png"
-draft = false
+draft = true
 +++
 
 Personen har været frivillig leder i sin klubsiden 1981 og har frem til i dag, og forhåbentlig også mange år

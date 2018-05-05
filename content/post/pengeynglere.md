@@ -2,7 +2,7 @@
 date = "2017-09-12T10:39:58+02:00"
 title = "Pengeynglerne"
 image = "penge.jpg"
-draft = false
+draft = true
 +++
 
 I 2017 lykkedes det pengeynglerne at lave 10.000,- til 68.014,-
