@@ -4,5 +4,6 @@ title = "Geopoint"
 weight = 5
 link = "http://www.geopoint.dk/"
 image = "geopoint.jpg"
+draft = true
 +++
 
