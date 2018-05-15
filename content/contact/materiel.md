@@ -6,7 +6,7 @@ weight = 5
 email = "materiel@kimbrerfesten.dk"
 name = "Niels Nielsen"
 phone = "29722221"
-work = "REKA A/S"
-worktitle = "Udviklings ingeniør"
+work = "Grundfos A/S"
+worktitle = "Afdelingsleder"
 +++
 
