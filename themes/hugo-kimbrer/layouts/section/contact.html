@@ -24,6 +24,7 @@
                 {{ with .Params.work }} <li>Arbejdsplads: {{.}},{{ end }} {{ with .Params.worktitle }}{{.}}</li>{{ end }}
                 {{ with .Params.email }}<li>Email:<a href="mailto:{{ . }}?Subject=Kimbrerkomite">Send Mail</a></li>{{ end }}
                 {{ with .Params.phone }}<li>Telefon: {{ . }}</li>{{ end }}
+                {{ with .Params.extralink }}<li> <a href="{{ . }}"> Mere info </a> </li>{{ end }}
               </ul>              
           </div>
         </div>
@@ -50,6 +51,7 @@
                 {{ with .Params.work }} <li>Arbejdsplads: {{.}},{{ end }} {{ with .Params.worktitle }}{{.}}</li>{{ end }}
                 {{ with .Params.email }}<li>Email:<a href="mailto:{{ . }}?Subject=Kimbrerkomite">Send Mail</a></li>{{ end }}
                 {{ with .Params.phone }}<li>Telefon: {{ . }}</li>{{ end }}
+                {{ with .Params.extralink }}<li> <a href="{{ . }}"> Mere info </a> </li>{{ end }}
               </ul>              
           </div>
         </div>
