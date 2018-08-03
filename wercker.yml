@@ -9,8 +9,8 @@ build:
 deploy:
   steps:
     - simpletechs/ftp-deploy-exclude:
-        destination: ftp://ws44.surftown.com/kimbrerfesten.dk/
-        username: kimbreradmin
+        destination: ftp://linux214.unoeuro.com/
+        username: kimbrerfesten.dk
         password: $FTP_PASS
         #remote-file: ./protected/werckerSync.txt
         exclude-file: ".htaccess .git/ .gitignore /wercker.yml /content/ /themes/ /static/ config.toml" 
