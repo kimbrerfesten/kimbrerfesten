@@ -7,4 +7,4 @@ draft = false
 
 ---
 
-Foreløbigt program for 2018 er nu klar.
+Program for 2018 er klar.
