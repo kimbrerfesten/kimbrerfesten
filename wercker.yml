@@ -4,12 +4,12 @@ build:
     - arjen/hugo-build:
         version: "0.40"
         theme: hugo-kimbrer
-        flags: --buildDrafts=false -d public_html
+        flags: --buildDrafts=false
 
 deploy:
   steps:
     - simpletechs/ftp-deploy-exclude:
-        destination: ftp://linux214.unoeuro.com/
+        destination: ftp://linux214.unoeuro.com/public_html
         username: kimbrerfesten.dk
         password: $FTP_PASS
         #remote-file: ./protected/werckerSync.txt
