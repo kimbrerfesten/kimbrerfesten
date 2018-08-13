@@ -9,7 +9,7 @@ build:
 deploy:
   steps:
     - simpletechs/ftp-deploy-exclude:
-        destination: ftp://linux214.unoeuro.com/public_html
+        destination: ftp://linux214.unoeuro.com/public_html/public
         username: kimbrerfesten.dk
         password: $FTP_PASS
         #remote-file: ./protected/werckerSync.txt
