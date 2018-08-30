@@ -1,19 +1,12 @@
 +++
-date = "2017-08-22T10:39:58+02:00"
-title = "Magasin 2017"
+date = "2018-30-08T10:39:58+02:00"
+title = "Magasin 2018"
 image = "magasin_2017.png"
-draft = true
+draft = false
 +++
 
-For dem der har "reklamer nej tak" er det nu muligt at afhente en kopi af Kimbrerfest magasinet hos.
+Vores store magasin med programmet og en masse oplysninger blev omdelt i uge 34.
 
-{{% li_bullet "Spar Nord bank" %}}
-{{% li_bullet "Jutlander Bank" %}} 
-{{% li_bullet "Aars Avis" %}} 
-{{% li_bullet "Tombola vognen, når den bliver sat op" %}} 
+Hvis du har Reklame – nej tak, eller du er tilmeldt NejTak+ hso MineTilbud.dk må buddet desværre ikke aflevere et magasin i din postkasse. Så kan du i stedet hente et eksemplar hos Jutlander eller SparNord på Himmerlandsgade, hos Aars Avis eller hos en del af de andre butikker i byen. I uge 36 kan du også hente et eksemplar i Tombola-vognen ved Kvickly.
 
-Alle andre skulle modtage Kimbrerfest magasinet sammen med Aars avis senere.
-
-Senere vil der også komme et direkte link til en PDF af magasinet.
-
-Hvis i vil klage over manglende magasin i posten, skriv da til {{% a_mail "magasin@kimbrerfesten.dk" %}} med navn og adresse og vi sender til distributør.
+Hvis du bor i området og ikke er tilmeldt Reklame – nej tak eller NejTak+, så burde du have fået magasinet i din postkasse. Er du blevet snydt, så send en mail til {{% a_mail "magasin@kimbrerfesten.dk" %}}, så vi kan give beskeden videre til dem, der omdeler magasinerne. De kommer ikke med et eksemplar i år, men det kan måske hjælpe til næste år.
