@@ -29,7 +29,7 @@ Natbusser holder {{% a_blank_inline "her" "https://www.nordjyllandstrafikselskab
 
 
 ##### Pris
-Der køres til almindelig billetpris med koncertbusserne. Der kan benyttes rejsekort eller købes kontantbillet i bussen. Du kan også købe NT's koncert- og markedsbillet til 35 kr. ved at SMS'e KONCERT til 1271. Læs mere Natbusser holder {{% a_blank_inline "her" "https://www.nordjyllandstrafikselskab.dk/Billetter---priser/Mobil-billet/Saerlige-mobil-billetter" %}}. 
+Der køres til almindelig billetpris med koncertbusserne. Der kan benyttes rejsekort eller købes kontantbillet i bussen. Du kan også købe NT's koncert- og markedsbillet til 35 kr. ved at SMS'e KONCERT til 1271. {{% a_blank_inline "Læs mere" "https://www.nordjyllandstrafikselskab.dk/Billetter---priser/Mobil-billet/Saerlige-mobil-billetter" %}}. 
 
 
 Bemærk:  Ved køb af kontantbillet opkræves udover billetpris natbustillæg på tur kl. 01.00. 
