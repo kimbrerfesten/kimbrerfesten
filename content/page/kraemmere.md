@@ -25,7 +25,7 @@ Kræmmermarkedet starter søndag kl 14 og lukker søndag kl 18.
 
 Kun gennem  {{% a_link "NemTilmeld" "https://kimbrerfesten.nemtilmeld.dk" %}}
 
-Seneste tilmelding 02.09.2018 kl 16:00.
+Seneste tilmelding 06.09.2018 kl 20:00.
 
 #### Til og frakørsel
 
