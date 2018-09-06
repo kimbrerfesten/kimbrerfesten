@@ -22,12 +22,13 @@
 </div>    
 {{ end }}
 
+{{ if .Site.Params.showmovie }}
 <div class="col s12 m12 l12">
   <video class="responsive-video" controls>
     <source src="{{ $.Site.BaseURL }}/video/kimbrerfesten_2017.mp4" type="video/mp4">
   </video>
 </div>  
-
+{{ end }}
 
 </div>
   <div class="slider">
