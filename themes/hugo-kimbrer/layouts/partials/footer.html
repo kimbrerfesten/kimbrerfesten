@@ -5,7 +5,7 @@
         <h5 class="white-text norse-font">Seneste indlæg</h5>
           <ul>
              {{ if gt (len (where .Site.Pages "Type" "post")) 1 }}  
-             {{ range first 4 ( after 1 (where .Site.Pages "Type" "post")).Reverse }}
+             {{ range first 4 ( after 1 (where .Site.Pages "Type" "post")) }}
                 <li><a href="{{ .Permalink }}" class="footer-link">{{ .Title }}</a></li>
             {{ end }}
               {{ end }}
