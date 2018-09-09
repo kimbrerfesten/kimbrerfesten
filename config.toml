@@ -11,6 +11,6 @@ theme = "hugo-kimbrer"
 
 
 [params]
-    surveylink = "" #"https://da.surveymonkey.com/r/9ZDDKNZ"
+    surveylink = "https://da.surveymonkey.com/r/9ZDDKNZ"
     eventDate = "D. 6. - 9. SEPTEMBER 2018"
-    showmovie = true
+    showmovie = false
