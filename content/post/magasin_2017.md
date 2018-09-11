@@ -2,7 +2,7 @@
 date = "2018-30-08T10:39:58+02:00"
 title = "Magasin 2018"
 image = "magasin_2017.png"
-draft = false
+draft = true
 +++
 
 Vores store magasin med programmet og en masse oplysninger blev omdelt i uge 34.

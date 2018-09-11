@@ -2,7 +2,7 @@
 date = "2018-30-08T15:39:58+02:00"
 title = "Revymiddag udsolgt"
 image = "udsolgt.png"
-draft = false
+draft = true
 +++
 
 
