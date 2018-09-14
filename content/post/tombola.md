@@ -27,5 +27,7 @@ Skriv til {{% a_mail "info@kimbrerfesten.dk" %}} og aftal afhentning.
 
 #### Nittegevinster 2018 
 2 stk gavkort á 5000 kr fra Aars Handelsstandsforening </br>
-* 549 </br>
+* 546 </br>
 * 11713
+
+Kontakt Jutlander band i Himmerlandsgade
