@@ -9,4 +9,5 @@ phone = ""
 work = ""
 worktitle = ""
 extralink = "http://kimbrerfesten.dk/page/kraemmere/"
+draft = true
 +++

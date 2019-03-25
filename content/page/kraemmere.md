@@ -2,9 +2,11 @@
 title = "For kræmmere"
 date = "2015-10-01"
 weight = 3
-[menu.main]
-name = "For kræmmere"
-parent = "Info"
+draft = true
+#[menu.main]
+#name = "For kræmmere"
+#parent = "Info"
+
 +++
 
 #### Information til kræmmere
