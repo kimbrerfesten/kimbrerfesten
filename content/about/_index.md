@@ -6,7 +6,7 @@ weight = 10
 name = "Om"
 +++
 
-#### Bag Kimbrerfesten står 11 idrætsklubber fra Aars:
+#### Bag Kimbrerfesten står følgende idrætsklubber fra Aars:
 
 {{% a_blank "Aars Tennisklub" "http://www.aarstennisklub.dk" %}}
 
@@ -30,6 +30,10 @@ name = "Om"
 
 {{% a_blank "Aars Gymnastikforening" "http://aarsgymnastikforening.dk" %}}
 
-Disse foreninger/klubber har valgt en komité til at stå for at arrangere Kimbrerfesten. Komitéen har nogle dygtige og flittige frivillige hjælpere som koordinere forskellige opgaver. se under [kontakt](http://kimbrerfesten.dk/contact/) for den siddende komité.
+Disse foreninger/klubber har valgt en komité til at stå for at arrangere Kimbrerfesten. Komitéen har nogle dygtige og flittige frivillige hjælpere som koordinere forskellige opgaver. 
+
+se under [kontakt](http://kimbrerfesten.dk/contact/) for den siddende komité.
 
 Kimbrerfesten er fritaget for moms med henvisning til at overskuddet fuldt ud går til velgørende og almennyttige formål.
+
+Kimbrerfestens CVR nummer er 28535813.
