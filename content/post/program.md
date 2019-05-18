@@ -1,10 +1,10 @@
 +++
-date = "2018-05-05T10:39:58+02:00"
-title = "Program 2018"
+date = "2019-05-05T10:39:58+02:00"
+title = "Program 2019"
 image = "program.png"
-draft = true
+draft = false
 +++
 
 ---
 
-Program for 2018 er klar.
+Program for 2019 er klar.
