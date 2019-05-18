@@ -1,11 +1,11 @@
 +++
 weight = "7"
-work = "Aviskontoret"
-name = "Sara N. Jacobsen"
-image = "unge1.png"
+work = ""
+name = ""
+image = ""
 date = "2017-02-26T20:26:38+01:00"
 title = "Ungegruppen"
-worktitle = "Bartender"
+worktitle = ""
 phone = ""
 email = "unge@kimbrerfesten.dk"
 +++

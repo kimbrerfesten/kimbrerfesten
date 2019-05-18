@@ -4,10 +4,10 @@ title = "Kasserer"
 weight = 4
 image = "kasserer.png"
 email = "kasserer@kimbrerfesten.dk"
-name = "Mette Sloth"
+name = "Helle Frydkjær Bloch"
 phone = ""
-work = "Jutlander Bank"
-worktitle = "Privatkunderådgiver"
+work = ""
+worktitle = ""
 +++
 
 # TEST
