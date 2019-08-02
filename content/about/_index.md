@@ -14,7 +14,7 @@ name = "Om"
 
 <!--{{% a_blank "Aars Bordtennisklub" "http://foreningsportalen.vesthimmerland.dk/side.asp?wkid=9958&side=2&debtorinfoid=10" %}}-->
 
-{{% a_blank "Aars Skytteforening" "http://foreningsportalen.vesthimmerland.dk/side.asp?wkid=9958&side=2&debtorinfoid=24" %}}
+<!--{{% a_blank "Aars Skytteforening" "http://foreningsportalen.vesthimmerland.dk/side.asp?wkid=9958&side=2&debtorinfoid=24" %}}-->
 
 {{% a_blank "Aars Svømmeklub" "http://aars-svommeklub.dk" %}}
 

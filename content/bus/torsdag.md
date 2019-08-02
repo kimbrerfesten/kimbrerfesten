@@ -2,6 +2,7 @@
 title = "Torsdag ruteplan"
 date = "2017-03-19"
 weight = 1
+draft = true
 [menu.main]
 name = "Torsdag plan"
 parent = "Bus"
