@@ -5,7 +5,7 @@ weight = 4
 draft = true
 [menu.main]
 name = "Søndag plan"
-parent = "Bus"
+parent = "None"
 +++
 
 Søndag følger busserne efter optoget som starter kl 13:00 og samler dem op der har lyst til det.

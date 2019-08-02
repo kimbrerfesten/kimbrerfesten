@@ -5,7 +5,7 @@ weight = 1
 draft = true
 [menu.main]
 name = "Torsdag plan"
-parent = "Bus"
+parent = "None"
 +++
 
 #### Rød Rute
