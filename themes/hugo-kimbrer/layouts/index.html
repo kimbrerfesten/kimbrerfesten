@@ -17,7 +17,7 @@
                           <div class="card">
                             <div class="card-image">                                
                             {{ with .Params.image }}
-                              <img src="{{  $.Site.BaseURL }}img/{{ . }}">
+                              <img style="height: 150px; width:100%" src="{{  $.Site.BaseURL }}img/{{ . }}" >
                             {{ else }}
                               <img src="{{  $.Site.BaseURL }}img/defaultpost.png">    
                             {{ end }}
