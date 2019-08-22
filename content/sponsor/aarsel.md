@@ -1,6 +1,6 @@
 +++
 title = "Aarsel"
-weight = 3
+weight = 5
 link = "http://aarsel.dk/"
 image = "aarsel.png"
 date = "2017-03-01T11:44:01+01:00"
