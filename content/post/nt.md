@@ -17,5 +17,5 @@ Der er 2 ruter, begge kører 2 gange fra festpladsen fredag og lørdag nat melle
 **Kimb2:**  Aars – Farsø – V.Hornum – Hornum – Blære - Vegger
 
 
-Køreplaner kan hentes {{% a_blank_inline "her" "https://www.nordjyllandstrafikselskab.dk/Bus---togtrafik/Markeds--og-koncertbusser" %}}.
+Køreplaner kan hentes {{% a_blank_inline "her" "https://www.nordjyllandstrafikselskab.dk/Bus---togtrafik/Markeds--og-koncertbusser/Kimberfesten" %}}.
 
