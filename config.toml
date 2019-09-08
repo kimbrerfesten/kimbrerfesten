@@ -2,7 +2,7 @@ baseurl = "http://kimbrerfesten.dk/"
 languageCode = "da-dk"
 title = "Kimbrerfesten"
 author = "Niels Linnemann"
-copyright = "Copyright (c) 2008 - 2017, Kimbrerfesten; all rights reserved."
+copyright = "Copyright (c) 2008 - 2019, Kimbrerfesten; all rights reserved."
 canonifyurls = true
 paginate = 6
 
@@ -11,6 +11,6 @@ theme = "hugo-kimbrer"
 
 
 [params]
-    surveylink = "" #"https://da.surveymonkey.com/r/9ZDDKNZ"
+    surveylink = "https://da.surveymonkey.com/r/JTL9R7P"
     eventDate = "D. 5. - 8. SEPTEMBER 2019"
     showmovie = false
