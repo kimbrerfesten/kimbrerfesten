@@ -8,4 +8,5 @@ name = "Tilmelding optog"
 phone = ""
 work = ""
 worktitle = ""
+draft = true
 +++

@@ -4,5 +4,6 @@ title = "Himmerlands Gokart Center"
 weight = 6
 link = "http://www.himgokart.dk/"
 image = "gokart.png"
+draft = true
 +++
 

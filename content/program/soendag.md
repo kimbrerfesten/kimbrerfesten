@@ -7,6 +7,6 @@ name = "Søndag"
 parent = "Program"
 +++
 
-<!--##### Program Følger senere-->
+##### Program Følger senere
 
-{{< display_table_csv_program file="content/program/soendag.csv" class="striped bordered" >}}
+<!-- {{< display_table_csv_program file="content/program/soendag.csv" class="striped bordered" >}} -->

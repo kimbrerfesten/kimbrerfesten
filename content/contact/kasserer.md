@@ -5,7 +5,7 @@ weight = 4
 image = "kasserer.png"
 email = "kasserer@kimbrerfesten.dk"
 name = "Helle Frydkjær Bloch"
-phone = ""
+phone = "41617070"
 work = ""
 worktitle = ""
 +++

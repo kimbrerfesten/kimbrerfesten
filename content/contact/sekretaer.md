@@ -1,12 +1,12 @@
 +++
 title = "Sekretær"
-work = "Botilbud på Tværs"
-image = "sekretaer.png"
+work = ""
+image = ""
 weight = "3"
 date = "2017-02-26T20:15:06+01:00"
-worktitle = "Socialrådgiver"
-phone = ""
-name = "Kristian Virenfeldt"
+worktitle = ""
+phone = "25219826"
+name = "Merete Mølgaard"
 email = "sekretaer@kimbrerfesten.dk"
 
 +++

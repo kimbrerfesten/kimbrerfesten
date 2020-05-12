@@ -2,7 +2,7 @@
 date = "2017-06-14T10:47:06+02:00"
 title = "Kimbrerfest Triatlon"
 image = "triatlon.png"
-draft = false
+draft = true
 +++
 
 Kimbrerfest Triatlon er for ALLE, der gerne vil prøve at kombinere svømning, cykling og løb. 

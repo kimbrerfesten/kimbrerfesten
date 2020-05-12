@@ -6,6 +6,7 @@ draft = true
 [menu.main]
 name = "Torsdag plan"
 parent = "None"
+draft = true
 +++
 
 #### Rød Rute

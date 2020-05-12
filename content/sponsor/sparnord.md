@@ -4,5 +4,6 @@ title = "Sparnord"
 link = "https://www.sparnord.dk/"
 image = "sparnord.jpg"
 weight = 3
+draft = true
 +++
 

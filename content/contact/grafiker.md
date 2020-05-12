@@ -8,5 +8,6 @@ date = "2017-02-26T20:24:26+01:00"
 phone = ""
 worktitle = ""
 work = "Aars Avis og Centrailtrykkeri"
+draft = true
 +++
 

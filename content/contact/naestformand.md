@@ -4,8 +4,8 @@ title = "Næstformand"
 weight = 2
 image = ""
 email = "naestformand@kimbrerfesten.dk"
-name = ""
-phone = ""
+name = "Henrik Jensen"
+phone = "29100266"
 work = ""
 worktitle = ""
 +++

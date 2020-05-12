@@ -8,5 +8,6 @@ title = "Ungegruppen"
 worktitle = "Studerende"
 phone = ""
 email = "unge@kimbrerfesten.dk"
+draft = true
 +++
 

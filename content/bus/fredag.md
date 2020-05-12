@@ -2,9 +2,10 @@
 title = "Fredag ruteplan"
 date = "2017-03-19"
 weight = 2
-[menu.main]
-name = "Fredag plan"
-parent = "Bus"
+# [menu.main]
+# name = "Fredag plan"
+# parent = "Bus"
+draft = true
 +++
 
 #### Rød Rute

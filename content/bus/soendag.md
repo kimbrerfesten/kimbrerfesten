@@ -2,10 +2,10 @@
 title = "Søndag ruteplan"
 date = "2017-03-19"
 weight = 4
+# [menu.main]
+# name = "Søndag plan"
+# parent = "None"
 draft = true
-[menu.main]
-name = "Søndag plan"
-parent = "None"
 +++
 
 Søndag følger busserne efter optoget som starter kl 13:00 og samler dem op der har lyst til det.

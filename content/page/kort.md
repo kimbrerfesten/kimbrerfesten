@@ -2,9 +2,10 @@
 title = "Kort"
 date = "2015-10-01"
 weight = 1
-[menu.main]
-name = "Kort"
-parent = "Info"
+# [menu.main]
+# name = "Kort"
+# parent = "Info"
+draft = true
 +++
 
 Kimbrerfesten glæder sig til at kunne byde velkommen på festpladsen.

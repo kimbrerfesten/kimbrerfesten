@@ -2,7 +2,7 @@
 date = "2017-06-14T10:47:06+02:00"
 title = "Kimbrerfest 5-mands fodbold"
 image = "fodbold.png"
-draft = false
+draft = true
 +++
 
 ##### Lørdag 10:00 – 16:00.

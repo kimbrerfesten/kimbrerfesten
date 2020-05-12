@@ -4,5 +4,6 @@ title = "La Bella"
 link = "https://labellacafe.dk/"
 image = "LaBella.jpg"
 weight = 8
+draft = true
 +++
 

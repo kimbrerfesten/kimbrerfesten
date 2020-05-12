@@ -2,7 +2,7 @@
 date = "2019-09-10T10:39:58+02:00"
 title = "Vindere i tombola"
 image = "tombola.jpg"
-draft = false
+draft = true
 +++
 
 ---
